@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/soniysa/MY_DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/soniysa/MY_DSA/tree/master/0414-third-maximum-number) |
 | [0875-koko-eating-bananas](https://github.com/soniysa/MY_DSA/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/soniysa/MY_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/soniysa/MY_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1901-find-a-peak-element-ii](https://github.com/soniysa/MY_DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/soniysa/MY_DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/soniysa/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/soniysa/MY_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/soniysa/MY_DSA/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/soniysa/MY_DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
