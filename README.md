@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/soniysa/MY_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soniysa/MY_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/soniysa/MY_DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/soniysa/MY_DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/soniysa/MY_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/soniysa/MY_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/soniysa/MY_DSA/tree/master/0079-word-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soniysa/MY_DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/soniysa/MY_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/soniysa/MY_DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/soniysa/MY_DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/soniysa/MY_DSA/tree/master/0213-house-robber-ii) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/soniysa/MY_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/soniysa/MY_DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/soniysa/MY_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
