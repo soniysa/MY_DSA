@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/soniysa/MY_DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/soniysa/MY_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/soniysa/MY_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/soniysa/MY_DSA/tree/master/0079-word-search) |
 | [0162-find-peak-element](https://github.com/soniysa/MY_DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/soniysa/MY_DSA/tree/master/0198-house-robber) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/soniysa/MY_DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/soniysa/MY_DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/soniysa/MY_DSA/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
