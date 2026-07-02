@@ -12,8 +12,8 @@ class Solution:
                 myset.add(nums[i])
                 permutation.append(nums[i])
                 self.solve(nums, permutation, myset, result)
-                myset.remove(nums[i])
-                permutation.remove(nums[i])
+                myset.remove(nums[i]) 
+                permutation.pop()## kyoki hamesha last se hi remove krna tha
 
     def permute(self, nums: List[int]) -> List[List[int]]:
         result = []
