@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/soniysa/MY_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/soniysa/MY_DSA/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/soniysa/MY_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soniysa/MY_DSA/tree/master/0344-reverse-string) |
 ## Backtracking
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/soniysa/MY_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/soniysa/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/soniysa/MY_DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soniysa/MY_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/soniysa/MY_DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/soniysa/MY_DSA/tree/master/0977-squares-of-a-sorted-array) |
