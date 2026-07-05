@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/soniysa/MY_DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/soniysa/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/soniysa/MY_DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/soniysa/MY_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/soniysa/MY_DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/soniysa/MY_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/soniysa/MY_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/soniysa/MY_DSA/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/soniysa/MY_DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/soniysa/MY_DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/soniysa/MY_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/soniysa/MY_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/soniysa/MY_DSA/tree/master/0414-third-maximum-number) |
@@ -153,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/soniysa/MY_DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/soniysa/MY_DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/soniysa/MY_DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
