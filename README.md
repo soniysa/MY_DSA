@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/soniysa/MY_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/soniysa/MY_DSA/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soniysa/MY_DSA/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/soniysa/MY_DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/soniysa/MY_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/soniysa/MY_DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/soniysa/MY_DSA/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
