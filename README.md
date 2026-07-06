@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/soniysa/MY_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soniysa/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/soniysa/MY_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/soniysa/MY_DSA/tree/master/0070-climbing-stairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/soniysa/MY_DSA/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/soniysa/MY_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/soniysa/MY_DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/soniysa/MY_DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/soniysa/MY_DSA/tree/master/0125-valid-palindrome) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/soniysa/MY_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soniysa/MY_DSA/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
