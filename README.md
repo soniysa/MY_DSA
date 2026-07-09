@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/soniysa/MY_DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/soniysa/MY_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/soniysa/MY_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/soniysa/MY_DSA/tree/master/0049-group-anagrams) |
