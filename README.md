@@ -172,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/soniysa/MY_DSA/tree/master/1095-find-in-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/soniysa/MY_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
