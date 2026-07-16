@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/soniysa/MY_DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/soniysa/MY_DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soniysa/MY_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/soniysa/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/soniysa/MY_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soniysa/MY_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/soniysa/MY_DSA/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/soniysa/MY_DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/soniysa/MY_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/soniysa/MY_DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/soniysa/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
 ## Interactive
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/soniysa/MY_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/soniysa/MY_DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/soniysa/MY_DSA/tree/master/0876-middle-of-the-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/soniysa/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
