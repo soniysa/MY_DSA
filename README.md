@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/soniysa/MY_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soniysa/MY_DSA/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/soniysa/MY_DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soniysa/MY_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/soniysa/MY_DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/soniysa/MY_DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/soniysa/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/soniysa/MY_DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/soniysa/MY_DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Interactive
 |  |
 | ------- |
